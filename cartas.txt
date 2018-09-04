@@ -1,0 +1,16 @@
+01 Pierdes tu turno por faltar a la clase de Archivos.
+02 Ve a la Casilla GO
+03 Un tio tuyo te pide que le arregles la computadora porque esta muy lenta. Le instalas CCleaner y le cobras $6000.
+04 Te han multado por no pagar la U a tiempo. Pagas $2000.
+05 Rompes la Interfaz Grafica de Ubuntu. Retrocedes 2 lugares.
+06 Inventas un codigo que hace que Windows funcione 0.01% mas rapido. Cobras $4000.
+07 No aguantas mas el estres de programar, dejas todo botado y te vas a enfiestar a la California. Pagas $5000.
+08 Pegaste una teja en el examen de Algebra Lineal solo con ver videos en YouTube. Ganas $2000.
+09 No viste el correo de la profe diciendo que no habia clases el Lunes. Pierdes tu turno.
+10 Has sido descubierto haciendo copy & paste del foro StackOverFlow para tus proyectos de Progra. Vas a la Carcel.
+11 Te han asignado un proyecto de Programacion del que ya tenias todo hecho. Avanzas 5 espacios.
+12 Tienes tarea pero prefieres ver Combate. Vuelve a la casilla GO y no se te paga por bruto.
+13 Faltando una hora para terminar el proyecto, aparece un bug que no sabes ni que es. Le pagas $2000 a un amigo para que termine el proyecto.
+14 Es el anno 2025 y aun no inauguran la Soda. Te toca pagar $1000 en unas yuquitas.
+15 Luego de 7 intentos, al fin pasas Calculo. Ve al Parqueo. 
+16 Piensas que aun tienes tiempo para terminar el proyecto una semana antes sin haber comenzado. Ve la casilla GO y no se te paga.
